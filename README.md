@@ -6,5 +6,4 @@ Projeto desenvolvido através do bootcamp da **IGTI** com foco em replicar o lay
 
 - HTML5
 - CSS3
-- SASS
 - Bootstrap
